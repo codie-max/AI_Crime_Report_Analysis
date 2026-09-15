@@ -1,0 +1,6 @@
+insight_type,finding
+Dominant Category,"Online Financial Fraud is the most frequently reported crime category, accounting for 59.46% of all reports."
+Dominant Subcategory,"UPI Related Frauds is the most frequently reported crime subcategory, accounting for 25.52% of all reports."
+Category Concentration,"The top five crime categories together represent 93.79% of the dataset, indicating a strong concentration of reported incidents within a small number of crime categories."
+Report Length,"Crime reports contain an average of approximately 389 characters, while the median report length is 295 characters."
+Dataset Scope,"The analysis covers 81,073 cleaned crime reports across 15 crime categories. The dataset does not contain a dedicated date field, so the analysis identifies distributions and patterns rather than chronological crime trends."

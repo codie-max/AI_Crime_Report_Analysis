@@ -1,0 +1,11 @@
+report_id,category,sub_category,crime_type,severity,classification_difference
+0,Online and Social Media Related Crime,Cyber Bullying  Stalking  Sexting,Cyberstalking/Harassment,Medium,True
+1,Online Financial Fraud,Fraud CallVishing,Sextortion / Blackmail,High,True
+2,Online Gambling  Betting,Online Gambling  Betting,"Impersonation, Extortion, Harassment",High,True
+3,Online and Social Media Related Crime,Online Job Fraud,Employment Fraud,Medium,True
+4,Online Financial Fraud,Fraud CallVishing,Fraud,Medium,True
+5,Online Financial Fraud,UPI Related Frauds,Fraud,Medium,True
+6,Online Financial Fraud,Fraud CallVishing,Cyberstalking/Harassment,High,True
+7,Online Financial Fraud,Internet Banking Related Fraud,Financial Fraud,Medium,True
+8,RapeGang Rape RGRSexually Abusive Content,Unknown,Cyber Harassment,Medium,True
+9,Any Other Cyber Crime,Other,Impersonation Fraud,Medium,True

@@ -1,0 +1,22 @@
+CRIME REPORT ANALYSIS - TREND & INSIGHT REPORT
+=======================================================
+
+1. FULL DATASET INSIGHTS
+
+The dataset contains 81,073 cleaned crime reports.
+The most common crime category is Online Financial Fraud with 48,205 reports (59.46%).
+The most common subcategory is UPI Related Frauds with 20,689 reports (25.52%).
+The average crime report length is 389.18 characters.
+The median crime report length is 295 characters.
+
+2. LLM-BASED SAMPLE INSIGHTS
+
+The initial LLM analysis sample contains 10 successfully analyzed reports.
+3 reports were classified as High severity (30.00% of the LLM sample).
+The LLM extracted structured information including crime type, modus operandi, platforms, entities, location, temporal information, financial loss, and severity.
+
+3. IMPORTANT ANALYTICAL NOTE
+
+The current dataset does not contain a dedicated date column.
+Therefore, the current analysis represents crime distributions and patterns rather than trends over time.
+LLM-based percentages are based only on the initial 10-report sample and should not be generalized to the complete dataset.

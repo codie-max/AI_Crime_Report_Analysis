@@ -1,0 +1,11 @@
+# Python
+venv/
+__pycache__/
+*.pyc
+
+# Environment / secrets
+.env
+
+# Large raw and processed datasets
+data/raw/
+data/processed/cleaned_crime_reports.csv
