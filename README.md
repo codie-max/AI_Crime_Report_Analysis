@@ -306,3 +306,28 @@ Artificial Intelligence + Natural Language Processing + Large Language Models + 
 Disclaimer
 
 This project is developed for academic and demonstration purposes. The generated LLM-based analysis should be treated as analytical assistance and not as an authoritative legal, investigative, or law-enforcement conclusion.
+## Dashboard Screenshots
+
+### Dashboard Overview
+![Dashboard Overview](screenshots/dashboard_overview.png)
+
+### Crime Category Distribution
+![Crime Category Distribution](screenshots/crime_category_distribution.png)
+
+### Crime Subcategory Distribution
+![Crime Subcategory Distribution](screenshots/crime_subcategory_distribution.png)
+
+### LLM Severity Distribution
+![LLM Severity Distribution](screenshots/llm_severity_distribution.png)
+
+### LLM Crime Types
+![LLM Crime Types](screenshots/llm_crime_types.png)
+
+### Analytical Insights
+![Analytical Insights](screenshots/analytical_insights.png)
+
+### Crime Report Analysis
+![Crime Report Analysis](screenshots/crime_report.png)
+
+### Working Crime Analysis
+![Working Crime Analysis](screenshots/working_crime_analysis.png)
