@@ -118,7 +118,8 @@ Pattern and Insight Analysis
 Database Storage
         ↓
 Interactive Dashboard
-Technologies Used
+
+```
 Programming Language: Python
 Data Processing: Pandas, NumPy
 NLP: Python Regular Expressions and predefined keyword detection
@@ -331,3 +332,4 @@ This project is developed for academic and demonstration purposes. The generated
 
 ### Working Crime Analysis
 ![Working Crime Analysis](screenshots/working_crime_analysis.png)
+``
