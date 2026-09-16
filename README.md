@@ -321,8 +321,6 @@ This project is developed for academic and demonstration purposes. The generated
 ### LLM Severity Distribution
 ![LLM Severity Distribution](screenshots/llm_severity_distribution.png)
 
-### LLM Crime Types
-![LLM Crime Types](screenshots/llm_crime_types.png)
 
 ### Analytical Insights
 ![Analytical Insights](screenshots/analytical_insights.png)
